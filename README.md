@@ -1,5 +1,7 @@
 # LangChain Academy 
 
+**EDITED BY ME FOR ME**
+
 ## Introduction
 
 Welcome to LangChain Academy! 
